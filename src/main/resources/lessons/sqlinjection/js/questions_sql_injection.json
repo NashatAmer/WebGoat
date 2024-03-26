@@ -24,7 +24,7 @@
       "4": "Oracle optimized prepared statements. Because of the minimal use of the databases resources it is faster."
     }
   }, {
-    "text": "How can a prepared statement prevent SQL-Injection?",
+    "text ": "How can a prepared statement prevent SQL-Injection?",
     "solutions": {
       "1": "Prepared statements have got an inner check to distinguish between input and logical errors.",
       "2": "Prepared statements use the placeholders to make rules what input is allowed to use.",
